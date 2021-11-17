@@ -18,4 +18,3 @@
 <br>
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=piscine-c-decloisonnee&dark=true&login=nattia)](https://github.com/mohouyizme/1337-readme) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attia-nabil&layout=compact&show_icons=true&theme=dark&hide=roff)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
