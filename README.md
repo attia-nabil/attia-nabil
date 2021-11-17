@@ -14,6 +14,7 @@
   <img align="left" alt="Nabil Attia | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=piscine-c-decloisonnee&dark=true&login=nattia)](https://github.com/mohouyizme/1337-readme)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=piscine-c-decloisonnee&dark=true&login=nattia)](https://github.com/mohouyizme/1337-readme) <br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=attia-nabil&show_icons=true&theme=dark&icon_color=#ffffff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attia-nabil&layout=compact&show_icons=true&theme=dark&hide=roff)](https://github.com/anuraghazra/github-readme-stats)
