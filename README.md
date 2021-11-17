@@ -13,7 +13,7 @@
 <a href="https://www.facebook.com/nabil.attia">
   <img align="left" alt="Nabil Attia | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a>
+<a
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=nattia)](https://github.com/mohouyizme/1337-readme)
 </a>
 <a href="https://github.com/attia-nabil?tab=repositories">
