@@ -5,11 +5,11 @@
 ## :computer: STATISTICS :
 
 <a href="https://github.com/attia-nabil?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ablaamim&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=attia-nabil&theme=dark"/>
 </a>
 
 <a href="https://github.com/attia-nabil?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ablaamim&line_height=40&show_icons=true&theme=dark">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=attia-nabil&line_height=40&show_icons=true&theme=dark">
 </a>
 
 ---
