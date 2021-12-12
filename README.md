@@ -1,4 +1,4 @@
-### Hey there
+<h1 align="center">Hi 👋, I'm Nabil Attia</h1>
 
 ---
 
