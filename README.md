@@ -15,7 +15,7 @@
 ---
 </p>
 <p align="center">
-  ![1337](https://user-images.githubusercontent.com/78090806/145720525-a1fc18ac-4101-4428-97c9-4f8c33e1eeca.png)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=nattia)](https://github.com/mohouyizme/1337-readme)
 </p>
 ---
 
