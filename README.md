@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nabil Attia</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="attia-nabil" /> </p>
 
 ## :computer: STATISTICS :
 
