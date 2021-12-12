@@ -12,6 +12,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=attia-nabil&line_height=40&show_icons=true&theme=dark">
 </a>
 
+<a
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=nattia)](https://github.com/mohouyizme/1337-readme)
+</a>
 ---
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=nattia)](https://github.com/mohouyizme/1337-readme)
 ---
