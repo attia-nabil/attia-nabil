@@ -1,5 +1,23 @@
 <h1 align="center">Hi 👋, I'm Nabil Attia</h1>
 
+--------------
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/nattia/">
+		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nattia/" />
+	</a>
+	<span> * </span>
+	<a href="https://twitter.com/nabil_attia_">
+		<img alt="Twitter Profile" src="https://badgen.net/badge/icon/twitter?icon=twitter&label" />
+	</a>
+		<span> * </span>
+	<a href="https://https://discord.com/users/nattia#3696">
+		<img alt="Twitter Profile" src="https://badgen.net/badge/icon/discord?icon=discord&label" />
+	</a>
+</p>
+
+---------------
+
 ## 📈 My Github status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=attia-nabil&show_icons=true&theme=radical)
