@@ -24,6 +24,4 @@
 ## 👨‍💻 My 42 status
 
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=nattia)](https://github.com/attia-nabil/attia-nabil/blob/main/README.md)
-
 [![aymoulou's 42 stats](https://badge42.herokuapp.com/api/stats/nattia?darkmode=true&cursus=42cursus)](https://github.com/attia-nabil/attia-nabil/blob/main/README.md)
