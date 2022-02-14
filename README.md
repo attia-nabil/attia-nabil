@@ -21,8 +21,10 @@
 
 <h1 align="center">## 📈 My Github status</h1>
 
+<p align = "center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=attia-nabil&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub0x1&layout=compact&theme=radical)](https://github.com/attia-nabil/attia-nabil/blob/main/README.md)
+	</p>
 
 
 ## 👨‍💻 My 42 status
