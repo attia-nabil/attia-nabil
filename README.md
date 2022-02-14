@@ -15,6 +15,22 @@
 
 ---------------
 
+<h3>Connect with me:</h3>
+
+<a href="https://github.com/xperaz" target="_blank">
+  <img align="left" alt="github" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
+</a>
+
+
+<a href="https://twitter.com/OuhadouAzedine" target="_blank">
+  <img align="left" alt="twitter" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
+</a>
+
+<a href="https://linkedin.com/in/AzedineOuhadou" target="_blank">
+  <img align="left" alt="linkedin" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />
+</a>
+
+
 ## 📈 My Github status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=attia-nabil&show_icons=true&theme=radical)
