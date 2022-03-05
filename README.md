@@ -24,9 +24,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=attia-nabil&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub0x1&layout=compact&theme=radical)](https://github.com/attia-nabil/attia-nabil/blob/main/README.md)
-
-
-## 👨‍💻 My 42 status
-
-
-[![aymoulou's 42 stats](https://badge42.herokuapp.com/api/stats/nattia?darkmode=true&cursus=42cursus)](https://github.com/attia-nabil/attia-nabil/blob/main/README.md)
