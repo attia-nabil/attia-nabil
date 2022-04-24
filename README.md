@@ -17,5 +17,5 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play games
-- ✉️ &nbsp;You can shoot me an email at yasinalmhdi8@gmail.com! I'll try to respond as soon as I can
+- ⚡ Fun fact: I love Tbourida
+- ✉️ &nbsp;You can shoot me an email at attia.nabil@hotmail.com! I'll try to respond as soon as I can
