@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nabil ATTIA</h1>
-<h3 align="center">A passionate frontend developer and graphic designer from Morocco</h3>
+[![Linkedin:Yassin](https://img.shields.io/badge/-Yassin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassin-abdulmahdi/)](https://www.linkedin.com/in/nattia/)
+[![Instagram:Yassin](https://img.shields.io/badge/-Yassin-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yaseen_almahdi5/)](https://www.instagram.com/attia-nabil/)
+[![Facebook:Yassin](https://img.shields.io/badge/-Yassin-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yasin.almhdi.96/)](https://www.facebook.com/nabil.attia/)
+![GitHub followers](https://img.shields.io/github/followers/attia-nabil?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=attia-nabil&color=brightgreen">  
+
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=attia-nabil&label=Profile%20views&color=0e75b6&style=flat" alt="attia-nabil" /> </p>
 
