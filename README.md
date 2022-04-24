@@ -1,41 +1,65 @@
-<h1 align="center">Hi 👋, I'm Nabil ATTIA</h1>
-[![Linkedin:Yassin](https://img.shields.io/badge/-Yassin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassin-abdulmahdi/)](https://www.linkedin.com/in/nattia/)
-[![Instagram:Yassin](https://img.shields.io/badge/-Yassin-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yaseen_almahdi5/)](https://www.instagram.com/attia-nabil/)
-[![Facebook:Yassin](https://img.shields.io/badge/-Yassin-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yasin.almhdi.96/)](https://www.facebook.com/nabil.attia/)
-![GitHub followers](https://img.shields.io/github/followers/attia-nabil?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=attia-nabil&color=brightgreen">  
+### Hi there, I'm Yassin  👋 
+
+[![Linkedin:Yassin](https://img.shields.io/badge/-Yassin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassin-abdulmahdi/)](https://www.linkedin.com/in/yassin-abdulmahdi/)
+[![Instagram:Yassin](https://img.shields.io/badge/-Yassin-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yaseen_almahdi5/)](https://www.instagram.com/yaseen_almahdi5/)
+[![Facebook:Yassin](https://img.shields.io/badge/-Yassin-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yasin.almhdi.96/)](https://www.facebook.com/yasin.almhdi.96/)
+![GitHub followers](https://img.shields.io/github/followers/Yassin522?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=Yassin522&color=brightgreen">  
 
 ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
 
+## 👨🏻‍💻 &nbsp;About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=attia-nabil&label=Profile%20views&color=0e75b6&style=flat" alt="attia-nabil" /> </p>
+## I'm a Flutter Developer !!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=attia-nabil" alt="attia-nabil" /></a> </p>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play games
+- ✉️ &nbsp;You can shoot me an email at yasinalmhdi8@gmail.com! I'll try to respond as soon as I can
 
-- 👨‍💻 All of my projects are available at [nattia.me](nattia.me)
 
-- 📝 I regularly write articles on [nattia.me](nattia.me)
+## 🔧 Technologies & Tools
 
-- 📫 How to reach me **attia.nabil@hotmail.com**
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Dart-green)
+![](https://img.shields.io/badge/Code-C%2B%2B-yellowgreen)
+![](https://img.shields.io/badge/Code-Java-red)
+![](https://img.shields.io/badge/Tools-Git-blue)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+[<code  >
+<img alt="Python" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png">
+</code>](#)
+[<code >
+<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/mysql.png">
+</code>](#)
+[<code >
+<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/html.png">
+</code>](#)
+[<code >
+<img alt="C++" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/cpp.png" />
+</code>](#)
+[<code >
+<img alt="Pycharm" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/pycharm.png" />
+</code>](#)
 
-- 📄 Know about my experiences [nattia.me](nattia.me)
+<p align="left"><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nabil_attia_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nabil_attia_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nattia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nattia" height="30" width="40" /></a>
-<a href="https://fb.com/nabil.attia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nabil.attia" height="30" width="40" /></a>
-<a href="https://instagram.com/attia.nabil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="attia.nabil" height="30" width="40" /></a>
-<a href="https://www.behance.net/nattia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nattia" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/yassin-abdulmahdi/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Practising on <a href="https://codeforces.com/profile/Yassin52">Codeforces</a> 🙃
+- - Practising on <a href="https://leetcode.com/Yassin52/">LeetcoCode</a> 🙃
+- Sharing updates on <a href="https://www.linkedin.com/in/yassin-abdulmahdi/">LinkedIn</a> 😇
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=attia-nabil&show_icons=true&locale=en&layout=compact" alt="attia-nabil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=attia-nabil&show_icons=true&locale=en" alt="attia-nabil" /></p>
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=attia-nabil&" alt="attia-nabil" /></p>
+
+
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Yassin522&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Yassin522" /></p>
+<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin522&layout=compact&theme=radical&hide_border=true" alt="Yassin522" /></p>
