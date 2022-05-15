@@ -1,4 +1,3 @@
-### Hi there, I'm Nabil  👋 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there,%20I%27m%20Nabil%20ATTIA!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
 [![Linkedin:Nabil](https://img.shields.io/badge/-Nabil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nattia/)](https://www.linkedin.com/in/yassin-abdulmahdi/)
