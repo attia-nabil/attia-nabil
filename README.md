@@ -35,6 +35,3 @@
 
 
 ![attia-nabil's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=attia-nabil&theme=redical)
-### 👨‍💻 My 42 status
-
-[![nattia's 42 stats](https://badge42.vercel.app/api/v2/cl2z22gx6012109mmt96g1798/stats?cursusId=21&coalitionId=75)](https://github.com/JaeSeoKim/badge42)
