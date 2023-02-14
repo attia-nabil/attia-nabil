@@ -29,6 +29,3 @@
 <p align="left">
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=attia-nabil&layout=compact&theme=radical" />
 </p>
-
-
-![attia-nabil's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=attia-nabil&theme=redical)
