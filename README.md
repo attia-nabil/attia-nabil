@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=random:83eaf1,100:63a4ff&height=200&text=Hi%20there,%20I%27m%20Nabil%20ATTIA!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random:4aac5f,100:63a4ff&height=200&text=Hi%20there,%20I%27m%20Nabil%20ATTIA!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
 [![Linkedin:Nabil](https://img.shields.io/badge/-Nabil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nattia/)](https://www.linkedin.com/in/yassin-abdulmahdi/)
 [![Instagram:Nabil](https://img.shields.io/badge/-Nabil-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/attia.nabil/)](https://www.instagram.com/attia.nabil/)
