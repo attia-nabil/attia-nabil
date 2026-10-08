@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/attia-nabil/attia-nabil/main/profile-banner.svg?v=design" alt="Nabil Attia — Head of Design at Agenz. Product design, UX strategy and design systems." width="100%" />
+<img src="https://raw.githubusercontent.com/attia-nabil/attia-nabil/06cb031198f5bc9f823f683228ac9dee523870d2/profile-banner.svg" alt="Nabil Attia — Head of Design at Agenz. Product design, UX strategy and design systems." width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nattia/"><strong>LinkedIn</strong></a>
@@ -30,11 +30,6 @@ Product experience, design systems, UX direction, and brand consistency.
 
 **OCP Group** — Freelance User Interface Designer  
 Interface design for production monitoring and employee reservation platforms.
-
-Two independent design concepts shared on LinkedIn:
-
-- [**CIH Bank — mobile interface concept**](https://www.linkedin.com/feed/update/urn:li:activity:7171029250135830528/) — Exploring a simpler banking interface and clearer visual hierarchy.
-- [**CTM — mobile booking concept**](https://www.linkedin.com/feed/update/urn:li:activity:7171391626102222849/) — Exploring a cleaner booking experience for travelers in Morocco.
 
 ## Technical foundation
 
