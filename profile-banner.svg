@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Nabil Attia — Frontend Developer and UI/UX</title>
+  <desc id="desc">A dark navy banner with turquoise accents and a minimal interface illustration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b31"/><stop offset="1" stop-color="#070c17"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#69e4d5"/><stop offset="1" stop-color="#7c9fff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#d6e8ff" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+  <circle cx="1130" cy="20" r="230" fill="#4ad4c3" opacity=".035"/>
+  <path d="M0 319 H1200" stroke="#69e4d5" stroke-opacity=".25"/>
+  <rect x="60" y="54" width="28" height="3" rx="1.5" fill="#69e4d5"/>
+  <text x="101" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3" fill="#a8b9d2">FRONTEND DEVELOPMENT / UI &amp; UX</text>
+  <text x="58" y="152" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" letter-spacing="-2" fill="#f4f8ff">Nabil Attia.</text>
+  <text x="62" y="199" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#bdcadc">Thoughtful design. Practical code.</text>
+  <text x="62" y="263" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.5" fill="#69e4d5">CASABLANCA, MOROCCO</text>
+  <g transform="translate(825 56)">
+    <rect x="22" y="-10" width="275" height="205" rx="14" fill="#0d1728" stroke="#324863" stroke-opacity=".6"/>
+    <rect width="275" height="205" rx="14" fill="#111f34" stroke="#415c7c"/>
+    <path d="M0 37 H275" stroke="#415c7c"/>
+    <circle cx="21" cy="19" r="4" fill="#69e4d5"/><circle cx="36" cy="19" r="4" fill="#7c9fff"/><circle cx="51" cy="19" r="4" fill="#415c7c"/>
+    <rect x="23" y="58" width="66" height="123" rx="6" fill="#1b2c44"/>
+    <rect x="104" y="58" width="146" height="43" rx="6" fill="#1b2c44"/>
+    <rect x="104" y="113" width="68" height="68" rx="6" fill="#213d50"/>
+    <rect x="184" y="113" width="66" height="68" rx="6" fill="#253553"/>
+    <path d="M147 70 L135 79 L147 88 M201 70 L213 79 L201 88 M182 68 L169 90" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M36 78 H73 M36 93 H61 M36 109 H67" stroke="#6d829d" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="138" cy="147" r="13" fill="none" stroke="#69e4d5" stroke-width="3"/>
+    <path d="M201 157 L216 139 L233 157" fill="none" stroke="#91aeff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

@@ -1,31 +1,39 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=random:4AAC5f,100:4AAC5f&height=200&text=Hi%20there,%20I%27m%20Nabil%20ATTIA!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
+<img src="https://raw.githubusercontent.com/attia-nabil/attia-nabil/main/profile-banner.svg" alt="Nabil Attia — Frontend Developer and UI/UX. Thoughtful design. Practical code." width="100%" />
 
-[![Linkedin:Nabil](https://img.shields.io/badge/-Nabil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nattia/)](https://www.linkedin.com/in/yassin-abdulmahdi/)
-[![Instagram:Nabil](https://img.shields.io/badge/-Nabil-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/attia.nabil/)](https://www.instagram.com/attia.nabil/)
-[![Facebook:Nabil](https://img.shields.io/badge/-Nabil-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/nabil.attia/)](https://www.facebook.com/nabil.attia/)
-![GitHub followers](https://img.shields.io/github/followers/attia-nabil?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=attia-nabil&color=brightgreen">  
-
-## 👨🏻‍💻 &nbsp;About Me
-
-## I'm a Web Developer !!
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Tbourida
-- ✉️ &nbsp;You can shoot me an email at attia.nabil@hotmail.com! I'll try to respond as soon as I can
-
-
-## 📈 My Github status
-
-<p align="left">
-  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/attia-nabil?cardType=github&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=attia-nabil&theme=radical" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/nattia/"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:attia.nabil@hotmail.com"><strong>Get in touch</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/attia-nabil?tab=repositories"><strong>Explore my work</strong></a>
 </p>
 
-<p align="left">
-   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=attia-nabil&layout=compact&theme=radical" />
+## Hello, I'm Nabil
+
+I'm a **frontend developer focused on UI/UX**, based in **Casablanca, Morocco**. I care about interfaces that are clear, responsive, and easy to use.
+
+My projects span personal websites, Python web applications, and systems programming in C. Coursework from **1337 / 42** and **ALX** has helped me build a foundation in algorithms, Linux, and software engineering.
+
+## Selected work
+
+| Project | What you'll find |
+| --- | --- |
+| [**Portfolio Black**](https://github.com/attia-nabil/Portfolio-Black) | A personal portfolio built with HTML, CSS, and JavaScript. |
+| [**Nabil Attia — personal website**](https://github.com/attia-nabil/Nabil-Attia) | My personal website, with a focus on frontend presentation. |
+| [**AirBnB Clone**](https://github.com/attia-nabil/AirBnB_clone_v2) | An ALX project with Python models, a command interpreter, Flask pages, and MySQL setup. |
+| [**Simple Shell**](https://github.com/attia-nabil/simple_shell) | A collaborative C project exploring command execution, built-ins, and environment handling. |
+
+## Tools & foundations
+
+**Frontend** &nbsp; HTML · CSS · JavaScript  
+**Programming** &nbsp; Python · C  
+**Workflow** &nbsp; Git · GitHub · Linux · Shell
+
+More of my engineering work: [sorting algorithms](https://github.com/attia-nabil/sorting_algorithms) · [C library](https://github.com/attia-nabil/libft) · [systems & DevOps](https://github.com/attia-nabil/alx-system_engineering-devops).
+
+---
+
+<p align="center">
+  <strong>Let's build something useful.</strong><br />
+  For a project or collaboration, connect on <a href="https://www.linkedin.com/in/nattia/">LinkedIn</a> or <a href="mailto:attia.nabil@hotmail.com">send me an email</a>.
 </p>
